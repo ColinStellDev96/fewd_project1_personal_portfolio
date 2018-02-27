@@ -83,8 +83,8 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
-  border-color: #267c93;
+  transform: scale(1.2) rotate(360deg);
+  border: 1px dashed #267c93;
 }
 .work-logo {
   width: 200px;
